@@ -13,5 +13,5 @@
 * 🌱 I’m currently improving my full-stack skills
 * 🧠 I’m interested in clean architecture and design patterns
 * 💬 Ask me about web development, backend systems, and automation
-* ⚡ Fun fact: I love tennis and running
+* ⚡ Fun fact: I love racing with cars and karts
   
