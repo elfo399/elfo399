@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Alfonso
 
-<!--
-**elfo399/elfo399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-stack developer crafting scalable web solutions
+⚙️ Building clean front-end interfaces, robust back-end systems, and automation pipelines
+🎯 Focused on performance, maintainability, and clean architecture
+🚀 Always learning and improving my skills
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+* 🔭 I’m currently working on web applications and automation workflows
+* 🌱 I’m currently improving my full-stack skills
+* 🧠 I’m interested in clean architecture and design patterns
+* 💬 Ask me about web development, backend systems, and automation
+* ⚡ Fun fact: I love tennis and running
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+* HTML, CSS, JavaScript
+* React
+
+**Backend**
+
+* Node.js
+* REST APIs
+
+**Tools**
+
+* Git
+* Docker
+* AWS
+
+---
+
+### 📫 Connect with me
+
+* LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/alfonso-piteo/)
+
+---
+
+### 📊 GitHub Stats
+
+![Alfonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=elfo399\&show_icons=true\&theme=dark)
