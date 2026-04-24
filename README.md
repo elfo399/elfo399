@@ -1,9 +1,9 @@
 # Hi 👋, I'm Alfonso
 
-💻 Full-stack developer crafting scalable web solutions
-⚙️ Building clean front-end interfaces, robust back-end systems, and automation pipelines
-🎯 Focused on performance, maintainability, and clean architecture
-🚀 Always learning and improving my skills
+💻 Full-stack developer crafting scalable web solutions  
+⚙️ Building clean front-end interfaces, robust back-end systems, and automation pipelines  
+🎯 Focused on performance, maintainability, and clean architecture  
+🚀 Always learning and improving my skills  
 
 ---
 
