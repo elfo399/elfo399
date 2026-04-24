@@ -14,7 +14,4 @@
 * 🧠 I’m interested in clean architecture and design patterns
 * 💬 Ask me about web development, backend systems, and automation
 * ⚡ Fun fact: I love tennis and running
-
-### 📊 GitHub Stats
-
-![Alfonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=elfo399\&show_icons=true\&theme=dark)
+  
