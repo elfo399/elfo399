@@ -15,34 +15,6 @@
 * 💬 Ask me about web development, backend systems, and automation
 * ⚡ Fun fact: I love tennis and running
 
----
-
-### 🛠️ Tech Stack
-
-**Frontend**
-
-* HTML, CSS, JavaScript
-* React
-
-**Backend**
-
-* Node.js
-* REST APIs
-
-**Tools**
-
-* Git
-* Docker
-* AWS
-
----
-
-### 📫 Connect with me
-
-* LinkedIn: [Alfonso Piteo](https://www.linkedin.com/in/alfonso-piteo/)
-
----
-
 ### 📊 GitHub Stats
 
 ![Alfonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=elfo399\&show_icons=true\&theme=dark)
