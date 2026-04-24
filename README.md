@@ -39,7 +39,7 @@
 
 ### 📫 Connect with me
 
-* LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/alfonso-piteo/)
+* LinkedIn: [Alfonso Piteo](https://www.linkedin.com/in/alfonso-piteo/)
 
 ---
 
