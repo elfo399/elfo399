@@ -22,40 +22,59 @@ alfonso@github:~$ stack --show
 <tr>
 <td width="50%" valign="top">
 
-#### backend & languages
+<img src="https://img.shields.io/badge/BACKEND_%26_LANGUAGES-F2CC60?style=for-the-badge" alt="Backend & Languages" />
 
-<img src="https://skillicons.dev/icons?i=java&theme=dark" height="52" alt="Java" />
+<br><br>
 
-`Java`
+<img src="https://skillicons.dev/icons?i=java&theme=dark" height="58" alt="Java" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
 
 </td>
 <td width="50%" valign="top">
 
-#### frontend
+<img src="https://img.shields.io/badge/FRONTEND-FF5F87?style=for-the-badge" alt="Frontend" />
 
-<img src="https://skillicons.dev/icons?i=angular&theme=dark" height="52" alt="Angular" />
+<br><br>
 
-`Angular`
+<img src="https://skillicons.dev/icons?i=angular&theme=dark" height="58" alt="Angular" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### cloud & devops
+<img src="https://img.shields.io/badge/CLOUD_%26_DEVOPS-58A6FF?style=for-the-badge" alt="Cloud & DevOps" />
 
-<img src="https://skillicons.dev/icons?i=docker,aws,azure&theme=dark" height="52" alt="Docker, AWS, Azure" />
+<br><br>
 
-`Docker` `AWS` `Azure`
+<img src="https://skillicons.dev/icons?i=docker,aws,azure&theme=dark" height="58" alt="Docker, AWS, Azure" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
 
 </td>
 <td width="50%" valign="top">
 
-#### game development & 3D
+<img src="https://img.shields.io/badge/GAME_DEVELOPMENT_%26_3D-A371F7?style=for-the-badge" alt="Game Development & 3D" />
 
-<img src="https://skillicons.dev/icons?i=unity,blender&theme=dark" height="52" alt="Unity, Blender" />
+<br><br>
 
-`Unity` `Blender`
+<img src="https://skillicons.dev/icons?i=unity,blender&theme=dark" height="58" alt="Unity, Blender" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
 
 </td>
 </tr>
