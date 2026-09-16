@@ -22,7 +22,7 @@ alfonso@github:~$ stack --show
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/BACKEND_%26_LANGUAGES-F2CC60?style=for-the-badge" alt="Backend & Languages" />
+<img src="./assets/title-backend.svg" alt="Backend & Languages" />
 
 <br><br>
 
@@ -35,7 +35,7 @@ alfonso@github:~$ stack --show
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/FRONTEND-FF5F87?style=for-the-badge" alt="Frontend" />
+<img src="./assets/title-frontend.svg" alt="Frontend" />
 
 <br><br>
 
@@ -50,7 +50,7 @@ alfonso@github:~$ stack --show
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/CLOUD_%26_DEVOPS-58A6FF?style=for-the-badge" alt="Cloud & DevOps" />
+<img src="./assets/title-cloud.svg" alt="Cloud & DevOps" />
 
 <br><br>
 
@@ -65,7 +65,7 @@ alfonso@github:~$ stack --show
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/GAME_DEVELOPMENT_%26_3D-A371F7?style=for-the-badge" alt="Game Development & 3D" />
+<img src="./assets/title-game.svg" alt="Game Development & 3D" />
 
 <br><br>
 
