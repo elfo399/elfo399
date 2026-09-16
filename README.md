@@ -14,50 +14,19 @@
 
 ## > tech_stack
 
-#### Backend & Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-#### Frontend
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-#### Game Development & 3D
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-
-#### Cloud & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<img src="./assets/tech-stack.svg" alt="Tech stack" width="100%" />
 
 ---
 
 ## > beyond_code
 
-### 🏁 Motorsport
-
-Motorsport has always been one of my biggest passions.
-
-My dream is to one day race the **24 Hours of Nürburgring**.
-
-> **Code requires precision.**  
-> **Racing requires precision.**  
-> In both, every detail matters.
+<img src="./assets/beyond-code.svg" alt="Motorsport dream" width="100%" />
 
 ---
 
 ## > connect
 
-```text
-alfonso@github:~$ contact --list
-
-GitHub   -> github.com/elfo399
-LinkedIn -> coming soon
-Email    -> coming soon
-```
+<img src="./assets/contact.svg" alt="Contact terminal" width="100%" />
 
 <div align="center">
 
