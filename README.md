@@ -26,11 +26,9 @@ alfonso@github:~$ stack --show
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=java&theme=dark" height="58" alt="Java" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="64" alt="Java" />
+</div>
 
 </td>
 <td width="50%" valign="top">
@@ -39,11 +37,9 @@ alfonso@github:~$ stack --show
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=angular&theme=dark" height="58" alt="Angular" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=angular&theme=dark" height="64" alt="Angular" />
+</div>
 
 </td>
 </tr>
@@ -54,13 +50,9 @@ alfonso@github:~$ stack --show
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=docker,aws,azure&theme=dark" height="58" alt="Docker, AWS, Azure" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,azure&theme=dark" height="64" alt="Docker, AWS, Azure" />
+</div>
 
 </td>
 <td width="50%" valign="top">
@@ -69,12 +61,9 @@ alfonso@github:~$ stack --show
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=unity,blender&theme=dark" height="58" alt="Unity, Blender" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=unity,blender&theme=dark" height="64" alt="Unity, Blender" />
+</div>
 
 </td>
 </tr>
