@@ -1,0 +1,26 @@
+<svg width="1000" height="500" viewBox="0 0 1000 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="998" height="498" rx="18" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  <path d="M1 54H999" stroke="#30363D" stroke-width="2"/>
+
+  <circle cx="28" cy="28" r="7" fill="#FF5F56"/>
+  <circle cx="54" cy="28" r="7" fill="#FFBD2E"/>
+  <circle cx="80" cy="28" r="7" fill="#27C93F"/>
+
+  <text x="110" y="34" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="16">alfonso@github:~</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="19">
+    <text x="30" y="108" fill="#3FB950">alfonso@github:~$</text>
+    <text x="231" y="108" fill="#58A6FF">whoami</text>
+
+    <text x="30" y="180" fill="#E6EDF3">Full-Stack Developer focused on building modern,</text>
+    <text x="30" y="214" fill="#E6EDF3">scalable and maintainable software.</text>
+
+    <text x="30" y="286" fill="#E6EDF3">Interested in web development, cloud infrastructure,</text>
+    <text x="30" y="320" fill="#E6EDF3">3D technologies and automation.</text>
+
+    <text x="30" y="390" fill="#3FB950">alfonso@github:~$</text>
+    <text x="231" y="390" fill="#58A6FF">current_goal</text>
+
+    <text x="30" y="462" fill="#F2CC60" font-weight="700">Keep learning. Keep building. Keep pushing the limits.</text>
+  </g>
+</svg>
