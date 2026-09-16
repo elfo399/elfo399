@@ -14,7 +14,56 @@
 
 ## > tech_stack
 
-<img src="./assets/tech-stack.svg?v=3" alt="Tech stack" width="100%" />
+```text
+alfonso@github:~$ stack --show
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### backend & languages
+
+<img src="https://skillicons.dev/icons?i=java&theme=dark" height="52" alt="Java" />
+
+`Java`
+
+</td>
+<td width="50%" valign="top">
+
+#### frontend
+
+<img src="https://skillicons.dev/icons?i=angular&theme=dark" height="52" alt="Angular" />
+
+`Angular`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### cloud & devops
+
+<img src="https://skillicons.dev/icons?i=docker,aws,azure&theme=dark" height="52" alt="Docker, AWS, Azure" />
+
+`Docker` `AWS` `Azure`
+
+</td>
+<td width="50%" valign="top">
+
+#### game development & 3D
+
+<img src="https://skillicons.dev/icons?i=unity,blender&theme=dark" height="52" alt="Unity, Blender" />
+
+`Unity` `Blender`
+
+</td>
+</tr>
+</table>
+
+```text
+alfonso@github:~$ echo "build · deploy · create"
+```
 
 ---
 
