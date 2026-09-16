@@ -24,22 +24,26 @@ alfonso@github:~$ stack --show
 
 <img src="./assets/title-backend.svg" alt="Backend & Languages" />
 
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java&theme=dark" height="64" alt="Java" />
 </div>
+
+<br>
 
 </td>
 <td width="50%" valign="top">
 
 <img src="./assets/title-frontend.svg" alt="Frontend" />
 
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=angular&theme=dark" height="64" alt="Angular" />
 </div>
+
+<br>
 
 </td>
 </tr>
@@ -48,22 +52,26 @@ alfonso@github:~$ stack --show
 
 <img src="./assets/title-cloud.svg" alt="Cloud & DevOps" />
 
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,aws,azure&theme=dark" height="64" alt="Docker, AWS, Azure" />
 </div>
+
+<br>
 
 </td>
 <td width="50%" valign="top">
 
 <img src="./assets/title-game.svg" alt="Game Development & 3D" />
 
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=unity,blender&theme=dark" height="64" alt="Unity, Blender" />
 </div>
+
+<br>
 
 </td>
 </tr>
