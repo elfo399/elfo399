@@ -1,0 +1,17 @@
+<svg width="1000" height="320" viewBox="0 0 1000 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="998" height="318" rx="18" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  <rect x="1" y="1" width="998" height="56" rx="18" fill="#11161D"/>
+  <path d="M1 56H999" stroke="#30363D" stroke-width="2"/>
+
+  <text x="28" y="36" fill="#3FB950" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700">motorsport_dream.txt</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="18">
+    <text x="30" y="105" fill="#E6EDF3">Motorsport has always been one of my biggest passions.</text>
+    <text x="30" y="153" fill="#E6EDF3">My dream is to one day race the</text>
+    <text x="383" y="153" fill="#F2CC60" font-weight="700">24 Hours of Nürburgring.</text>
+
+    <text x="30" y="219" fill="#58A6FF">Code requires precision.</text>
+    <text x="30" y="249" fill="#58A6FF">Racing requires precision.</text>
+    <text x="30" y="279" fill="#8B949E">In both, every detail matters.</text>
+  </g>
+</svg>
