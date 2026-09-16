@@ -14,7 +14,7 @@
 
 ## > tech_stack
 
-<img src="./assets/tech-stack.svg" alt="Tech stack" width="100%" />
+<img src="./assets/tech-stack.svg?v=3" alt="Tech stack" width="100%" />
 
 ---
 
