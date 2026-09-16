@@ -1,5 +1,5 @@
-<svg width="1000" height="520" viewBox="0 0 1000 520" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect x="1" y="1" width="998" height="518" rx="18" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+<svg width="1000" height="760" viewBox="0 0 1000 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="998" height="758" rx="18" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
   <path d="M1 54H999" stroke="#30363D" stroke-width="2"/>
 
   <circle cx="28" cy="28" r="7" fill="#FF5F56"/>
@@ -13,82 +13,81 @@
     <text x="30" y="122" fill="#8B949E" font-size="14">A compact view of the tools I enjoy building with.</text>
   </g>
 
-  <!-- Backend card -->
-  <rect x="30" y="150" width="450" height="135" rx="14" fill="#11161D" stroke="#30363D"/>
-  <rect x="30" y="150" width="5" height="135" rx="2.5" fill="#F2CC60"/>
-  <text x="52" y="182" fill="#F2CC60" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="700">BACKEND &amp; LANGUAGES</text>
+  <!-- Backend -->
+  <rect x="30" y="150" width="450" height="145" rx="14" fill="#11161D" stroke="#30363D"/>
+  <rect x="30" y="150" width="5" height="145" rx="2.5" fill="#F2CC60"/>
+  <text x="52" y="182" fill="#F2CC60" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="700">BACKEND</text>
+  <rect x="52" y="202" width="190" height="66" rx="11" fill="#161B22" stroke="#30363D"/>
+  <image href="https://skillicons.dev/icons?i=java&amp;theme=dark" x="64" y="213" width="44" height="44"/>
+  <text x="122" y="229" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700">Java</text>
+  <text x="122" y="249" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">language / backend</text>
 
-  <rect x="52" y="202" width="170" height="54" rx="11" fill="#161B22" stroke="#30363D"/>
-  <circle cx="80" cy="229" r="17" fill="#ED8B00"/>
-  <path d="M73 235h14M75 232c8 0 9-7 2-8 6-1 7-7 2-9M77 238c5 3 11 1 13-3" stroke="white" stroke-width="2" stroke-linecap="round" fill="none"/>
-  <text x="108" y="225" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700">Java</text>
-  <text x="108" y="244" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">backend / language</text>
-
-  <!-- Frontend card -->
-  <rect x="520" y="150" width="450" height="135" rx="14" fill="#11161D" stroke="#30363D"/>
-  <rect x="520" y="150" width="5" height="135" rx="2.5" fill="#FF5F87"/>
+  <!-- Frontend -->
+  <rect x="520" y="150" width="450" height="145" rx="14" fill="#11161D" stroke="#30363D"/>
+  <rect x="520" y="150" width="5" height="145" rx="2.5" fill="#FF5F87"/>
   <text x="542" y="182" fill="#FF7AA2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="700">FRONTEND</text>
+  <rect x="542" y="202" width="210" height="66" rx="11" fill="#161B22" stroke="#30363D"/>
+  <image href="https://skillicons.dev/icons?i=angular&amp;theme=dark" x="554" y="213" width="44" height="44"/>
+  <text x="612" y="229" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700">Angular</text>
+  <text x="612" y="249" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">frontend framework</text>
 
-  <rect x="542" y="202" width="190" height="54" rx="11" fill="#161B22" stroke="#30363D"/>
-  <circle cx="570" cy="229" r="17" fill="#DD0031"/>
-  <path d="M570 214l12 5-2 15-10 9-10-9-2-15 12-5z" fill="white" opacity="0.95"/>
-  <path d="M570 218l-7 17h4l1.5-4h7l1.5 4h4l-7-17h-4zm0 6 2.4 6h-4.8l2.4-6z" fill="#DD0031"/>
-  <text x="598" y="225" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700">Angular</text>
-  <text x="598" y="244" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">frontend framework</text>
+  <!-- Databases -->
+  <rect x="30" y="315" width="450" height="160" rx="14" fill="#11161D" stroke="#30363D"/>
+  <rect x="30" y="315" width="5" height="160" rx="2.5" fill="#3FB950"/>
+  <text x="52" y="347" fill="#56D364" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="700">DATABASES</text>
 
-  <!-- Cloud card -->
-  <rect x="30" y="305" width="450" height="155" rx="14" fill="#11161D" stroke="#30363D"/>
-  <rect x="30" y="305" width="5" height="155" rx="2.5" fill="#58A6FF"/>
-  <text x="52" y="337" fill="#79C0FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="700">CLOUD &amp; DEVOPS</text>
+  <rect x="52" y="367" width="184" height="66" rx="11" fill="#161B22" stroke="#30363D"/>
+  <image href="https://skillicons.dev/icons?i=mysql&amp;theme=dark" x="64" y="378" width="44" height="44"/>
+  <text x="122" y="394" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700">MySQL</text>
+  <text x="122" y="414" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11">relational DB</text>
 
-  <!-- Docker -->
-  <rect x="52" y="357" width="118" height="66" rx="11" fill="#161B22" stroke="#30363D"/>
-  <circle cx="79" cy="385" r="16" fill="#2496ED"/>
-  <g fill="white">
-    <rect x="69" y="379" width="5" height="5" rx="1"/><rect x="75" y="379" width="5" height="5" rx="1"/><rect x="81" y="379" width="5" height="5" rx="1"/>
-    <rect x="75" y="373" width="5" height="5" rx="1"/><rect x="81" y="373" width="5" height="5" rx="1"/>
-    <path d="M67 386c2 7 8 9 15 7 5-1 8-4 10-8-4 1-6 0-8-2-1 2-4 3-7 3H67z"/>
-  </g>
-  <text x="101" y="381" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700">Docker</text>
-  <text x="101" y="399" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11">containers</text>
+  <rect x="246" y="367" width="202" height="66" rx="11" fill="#161B22" stroke="#30363D"/>
+  <image href="https://skillicons.dev/icons?i=mongodb&amp;theme=dark" x="258" y="378" width="44" height="44"/>
+  <text x="316" y="394" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700">MongoDB</text>
+  <text x="316" y="414" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11">NoSQL DB</text>
 
-  <!-- AWS -->
-  <rect x="180" y="357" width="112" height="66" rx="11" fill="#161B22" stroke="#30363D"/>
-  <circle cx="207" cy="385" r="16" fill="#232F3E" stroke="#FF9900"/>
-  <text x="196" y="389" fill="white" font-family="Arial,sans-serif" font-size="11" font-weight="700">aws</text>
-  <path d="M197 394c7 5 16 5 23 0" stroke="#FF9900" stroke-width="2" stroke-linecap="round"/>
-  <text x="229" y="381" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700">AWS</text>
-  <text x="229" y="399" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11">cloud</text>
+  <!-- Game / 3D -->
+  <rect x="520" y="315" width="450" height="160" rx="14" fill="#11161D" stroke="#30363D"/>
+  <rect x="520" y="315" width="5" height="160" rx="2.5" fill="#A371F7"/>
+  <text x="542" y="347" fill="#D2A8FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="700">GAME DEVELOPMENT &amp; 3D</text>
 
-  <!-- Azure -->
-  <rect x="302" y="357" width="132" height="66" rx="11" fill="#161B22" stroke="#30363D"/>
-  <circle cx="329" cy="385" r="16" fill="#0078D4"/>
-  <path d="M327 373l-8 17h8l-3 7 16-21h-8l3-3h-8z" fill="white"/>
-  <text x="351" y="381" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700">Azure</text>
-  <text x="351" y="399" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11">cloud</text>
+  <rect x="542" y="367" width="184" height="66" rx="11" fill="#161B22" stroke="#30363D"/>
+  <image href="https://skillicons.dev/icons?i=unity&amp;theme=dark" x="554" y="378" width="44" height="44"/>
+  <text x="612" y="394" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700">Unity</text>
+  <text x="612" y="414" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11">game engine</text>
 
-  <!-- 3D card -->
-  <rect x="520" y="305" width="450" height="155" rx="14" fill="#11161D" stroke="#30363D"/>
-  <rect x="520" y="305" width="5" height="155" rx="2.5" fill="#A371F7"/>
-  <text x="542" y="337" fill="#D2A8FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="700">GAME DEVELOPMENT &amp; 3D</text>
+  <rect x="736" y="367" width="202" height="66" rx="11" fill="#161B22" stroke="#30363D"/>
+  <image href="https://skillicons.dev/icons?i=blender&amp;theme=dark" x="748" y="378" width="44" height="44"/>
+  <text x="806" y="394" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700">Blender</text>
+  <text x="806" y="414" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11">3D creation</text>
 
-  <!-- Unity -->
-  <rect x="542" y="357" width="150" height="66" rx="11" fill="#161B22" stroke="#30363D"/>
-  <circle cx="569" cy="385" r="16" fill="#000000" stroke="#30363D"/>
-  <path d="M569 372l9 5v10l-9 6-9-6v-10l9-5zm0 4-5 3 5 3 5-3-5-3zm-6 6v5l4 3v-6l-4-2zm8 2v6l4-3v-5l-4 2z" fill="white"/>
-  <text x="591" y="381" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700">Unity</text>
-  <text x="591" y="399" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11">game engine</text>
+  <!-- Cloud / DevOps -->
+  <rect x="30" y="495" width="940" height="180" rx="14" fill="#11161D" stroke="#30363D"/>
+  <rect x="30" y="495" width="5" height="180" rx="2.5" fill="#58A6FF"/>
+  <text x="52" y="527" fill="#79C0FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="700">CLOUD &amp; DEVOPS</text>
 
-  <!-- Blender -->
-  <rect x="704" y="357" width="172" height="66" rx="11" fill="#161B22" stroke="#30363D"/>
-  <circle cx="731" cy="385" r="16" fill="#E87D0D"/>
-  <path d="M719 384h9l-5-5 3-2 7 7h7c4 0 7 3 7 7s-3 7-7 7h-7c-5 0-9-4-9-9 0-2 1-4 2-5h-7z" fill="white" opacity="0.95"/>
-  <circle cx="740" cy="391" r="4" fill="#E87D0D"/>
-  <text x="753" y="381" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700">Blender</text>
-  <text x="753" y="399" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11">3D creation</text>
+  <rect x="52" y="547" width="204" height="72" rx="11" fill="#161B22" stroke="#30363D"/>
+  <image href="https://skillicons.dev/icons?i=docker&amp;theme=dark" x="64" y="561" width="44" height="44"/>
+  <text x="122" y="579" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700">Docker</text>
+  <text x="122" y="599" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11">containers</text>
+
+  <rect x="272" y="547" width="204" height="72" rx="11" fill="#161B22" stroke="#30363D"/>
+  <image href="https://skillicons.dev/icons?i=aws&amp;theme=dark" x="284" y="561" width="44" height="44"/>
+  <text x="342" y="579" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700">AWS</text>
+  <text x="342" y="599" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11">cloud</text>
+
+  <rect x="492" y="547" width="204" height="72" rx="11" fill="#161B22" stroke="#30363D"/>
+  <image href="https://skillicons.dev/icons?i=azure&amp;theme=dark" x="504" y="561" width="44" height="44"/>
+  <text x="562" y="579" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700">Azure</text>
+  <text x="562" y="599" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11">cloud</text>
+
+  <rect x="712" y="547" width="226" height="72" rx="11" fill="#161B22" stroke="#30363D"/>
+  <image href="https://skillicons.dev/icons?i=jenkins&amp;theme=dark" x="724" y="561" width="44" height="44"/>
+  <text x="782" y="579" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700">Jenkins</text>
+  <text x="782" y="599" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11">CI / CD</text>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15">
-    <text x="30" y="492" fill="#3FB950">alfonso@github:~$</text>
-    <text x="194" y="492" fill="#58A6FF">echo "build · deploy · create"</text>
+    <text x="30" y="720" fill="#3FB950">alfonso@github:~$</text>
+    <text x="194" y="720" fill="#58A6FF">echo "build · deploy · create"</text>
   </g>
 </svg>
