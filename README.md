@@ -8,19 +8,7 @@
 
 </div>
 
-```text
-alfonso@github:~$ whoami
-
-Full-Stack Developer focused on building modern,
-scalable and maintainable software.
-
-Interested in web development, cloud infrastructure,
-3D technologies and automation.
-
-alfonso@github:~$ current_goal
-
-Keep learning. Keep building. Keep pushing the limits.
-```
+<img src="./assets/terminal.svg" alt="Terminal introduction" width="100%" />
 
 ---
 
