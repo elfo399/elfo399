@@ -22,12 +22,12 @@ alfonso@github:~$ stack --show
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/title-backend.svg?v=2" alt="Backend & Databases" />
+<img src="./assets/title-backend.svg?v=3" alt="Backend" />
 
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,mongodb&theme=dark" height="64" alt="Java, MySQL, MongoDB" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="64" alt="Java" />
 </div>
 
 <br>
@@ -50,12 +50,12 @@ alfonso@github:~$ stack --show
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/title-cloud.svg" alt="Cloud & DevOps" />
+<img src="./assets/title-databases.svg" alt="Databases" />
 
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,azure,jenkins&theme=dark" height="64" alt="Docker, AWS, Azure, Jenkins" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" height="64" alt="MySQL, MongoDB" />
 </div>
 
 <br>
@@ -69,6 +69,21 @@ alfonso@github:~$ stack --show
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=unity,blender&theme=dark" height="64" alt="Unity, Blender" />
+</div>
+
+<br>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<img src="./assets/title-cloud.svg" alt="Cloud & DevOps" />
+
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,azure,jenkins&theme=dark" height="64" alt="Docker, AWS, Azure, Jenkins" />
 </div>
 
 <br>
