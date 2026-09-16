@@ -22,12 +22,12 @@ alfonso@github:~$ stack --show
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/title-backend.svg" alt="Backend & Languages" />
+<img src="./assets/title-backend.svg?v=2" alt="Backend & Databases" />
 
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="64" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,mongodb&theme=dark" height="64" alt="Java, MySQL, MongoDB" />
 </div>
 
 <br>
@@ -55,7 +55,7 @@ alfonso@github:~$ stack --show
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,azure&theme=dark" height="64" alt="Docker, AWS, Azure" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,azure,jenkins&theme=dark" height="64" alt="Docker, AWS, Azure, Jenkins" />
 </div>
 
 <br>
