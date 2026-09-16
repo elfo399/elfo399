@@ -1,0 +1,24 @@
+<svg width="1000" height="290" viewBox="0 0 1000 290" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="998" height="288" rx="18" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  <path d="M1 54H999" stroke="#30363D" stroke-width="2"/>
+
+  <circle cx="28" cy="28" r="7" fill="#FF5F56"/>
+  <circle cx="54" cy="28" r="7" fill="#FFBD2E"/>
+  <circle cx="80" cy="28" r="7" fill="#27C93F"/>
+
+  <text x="110" y="34" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="16">alfonso@github:~</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="18">
+    <text x="30" y="103" fill="#3FB950">alfonso@github:~$</text>
+    <text x="223" y="103" fill="#58A6FF">contact --list</text>
+
+    <text x="30" y="158" fill="#8B949E">GitHub</text>
+    <text x="150" y="158" fill="#E6EDF3">→ github.com/elfo399</text>
+
+    <text x="30" y="199" fill="#8B949E">LinkedIn</text>
+    <text x="150" y="199" fill="#F2CC60">→ coming soon</text>
+
+    <text x="30" y="240" fill="#8B949E">Email</text>
+    <text x="150" y="240" fill="#F2CC60">→ coming soon</text>
+  </g>
+</svg>
