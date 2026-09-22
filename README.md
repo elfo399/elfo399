@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://github.com/elfo399">
-    <img src="https://img.shields.io/badge/GITHUB-ELFO399-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=3D3D3D" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-3D3D3D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/alfonso-piteo/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
