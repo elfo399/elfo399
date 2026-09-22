@@ -22,16 +22,16 @@
 
 <img src="./assets/beyond-code.svg" alt="Motorsport dream" width="100%" />
 
----
-
-## > connect
-
-<img src="./assets/contact.svg" alt="Contact terminal" width="100%" />
-
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-elfo399-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elfo399)
-
+  <a href="https://github.com/elfo399">
+    <img src="https://img.shields.io/badge/GitHub-elfo399-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/alfonso-piteo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/elfo.class/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
 
 ---
